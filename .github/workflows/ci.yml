@@ -33,6 +33,6 @@ jobs:
       with:
         image: cdacroot/demoapp
         registry: hub.docker.com/repository/docker
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: cdacroot
+        password: ios5gn@123
 
